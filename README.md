@@ -6,10 +6,17 @@ This application is a blockchain-based ledger system, complete with a user-frien
 
 ## Screenshots
 
+Test data inputs:
 ![Input Data](./Screenshots/Input_data.png)
 
+
+Test data added to blockchain:
 ![Input Data](./Screenshots/Add_to_blockchain.png)
 
+
+Blockchain validation:
 ![Input Data](./Screenshots/Validate.png)
 
+
+Terminal output of unique hash values:
 ![Input Data](./Screenshots/Terminal.png)
